@@ -15,6 +15,9 @@
 
 It is a secure, scalable, and feasible application that provides an interface for multiple users to chat at the same time.
 
+OUTPUT:
+![image](https://github.com/AyushDahiya008/Chatting_App/assets/158088706/668cd5b4-35ad-45be-96a9-540dc3bc94ed)
+
 # Quick Start 
 
 
