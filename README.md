@@ -17,6 +17,9 @@ It is a secure, scalable, and feasible application that provides an interface fo
 
 OUTPUT:
 ![image](https://github.com/AyushDahiya008/Chatting_App/assets/158088706/668cd5b4-35ad-45be-96a9-540dc3bc94ed)
+![image](https://github.com/AyushDahiya008/Chatting_App/assets/158088706/67a157be-6966-41bc-b926-6ca377400177)
+![image](https://github.com/AyushDahiya008/Chatting_App/assets/158088706/ec8c91d5-725c-4e57-a052-b8acf5c31472)
+
 
 # Quick Start 
 
